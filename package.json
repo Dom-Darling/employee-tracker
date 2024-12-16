@@ -5,6 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "base_url": "https://your-app-name.onrender.com",
   "keywords": [],
   "author": "",
   "license": "ISC",
